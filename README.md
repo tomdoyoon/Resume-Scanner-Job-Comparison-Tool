@@ -1,4 +1,4 @@
-# Resume-Scanner-and-Match-Tools
+# Resume-Scanner
 
 # ABSTRACT
 
@@ -8,7 +8,9 @@ There are two applications that vary the method of inputting a resume and a job 
 
 Both applications preprocesses the data, tokenizes the text, and filters the extracted keywords and key phrases before comparing the resume with the job post using a Levenshtein distance metric.
 
-Future iterations of this project leaves room for industry specific keyword generation, cleaner LinkedIn job description scraping, and using cosine similarity to measure the similarity between a resume and a job post.   
+Future iterations of this project leaves room for industry specific keyword generation, cleaner LinkedIn job description scraping, and using cosine similarity to measure the similarity between a resume and a job post.
+
+Note: The current resume text was extracted from Jonathan Whitmore’s public resume found at jonathanwhitemore.com. 
 
 
 # TABLE OF CONTENTS
