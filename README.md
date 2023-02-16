@@ -1,4 +1,4 @@
-# Resume-Scanner
+# Resume-Scanner-Job-Comparison-Tool
 
 # ABSTRACT
 
