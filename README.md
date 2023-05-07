@@ -10,7 +10,7 @@ Both applications preprocesses the data, tokenizes the text, and filters the ext
 
 Future iterations of this project leaves room for industry specific keyword generation, cleaner LinkedIn job description scraping, and using cosine similarity to measure the similarity between a resume and a job post.
 
-Note: The current resume text was extracted from Jonathan Whitmore’s public resume found at jonathanwhitemore.com. 
+Note: The current resume text was a randomly genereated resume.
 
 
 # TABLE OF CONTENTS
